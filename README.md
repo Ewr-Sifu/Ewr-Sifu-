@@ -1,6 +1,6 @@
- # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />Hey 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+ # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />Hey 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> SIFAT × SIZUKA <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" />
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" /> SIFAT × SIZUKA <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" />
 
 <table>
 <tr>
@@ -35,11 +35,11 @@ Just a normal person every day trying to find a better one of me.
 ### 📊 Github Stats (Expand to View) 
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKASHI-V5&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ewr-Sifu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKASHI-V5&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ewr-Sifu&theme=radical" alt="GitHub Streak" />
 </p> 
 
 <p align="center">
@@ -58,6 +58,6 @@ Just a normal person every day trying to find a better one of me.
 ## 🌐 Connect with Me
 <p align="center">
 	<a href="https://github.com/Ewr-Sifu/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/itzsifuff/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/FFSIFU/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	
 </p>
